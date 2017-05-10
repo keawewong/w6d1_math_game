@@ -1,0 +1,24 @@
+Class QnA
+Attributes:
+- contains all the questions and answers
+Methods:
+- Read Q&A
+
+Class Player
+Attributes:
+- name
+- score
+Methods:
+- Read and write the name
+- Read and write score
+
+Class Game
+Attributes:
+- Player's names
+- Who's turn
+- Which question
+Methods:
+- create players
+- puts turns, wait for input
+- check answers
+- check winner
